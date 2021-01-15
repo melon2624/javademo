@@ -1,6 +1,7 @@
+package week1;
+
 import java.io.IOException;
 import java.lang.reflect.Method;
-import java.util.Base64;
 
 public class HelloClassLoader extends ClassLoader {
 
